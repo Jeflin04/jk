@@ -2,9 +2,9 @@
   "name": "jk",
   "version": "1.0.0",
   "description": "\"# jk\"",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "index app.js"
   },
   "keywords": [],
   "author": "",
