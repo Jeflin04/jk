@@ -1,2 +1,2 @@
 // index.js
-console.log("Node app started!");
+console.log("Node app starte!");
